@@ -1,0 +1,9 @@
+Nov 05 08:10:12 kali sshd[1201]: Failed password for invalid user admin from 192.0.2.10 port 50123 ssh2
+Nov 05 08:10:18 kali sshd[1202]: Failed password for invalid user test from 192.0.2.10 port 50124 ssh2
+Nov 05 08:10:25 kali sshd[1203]: Failed password for user ajayi from 192.0.2.10 port 50125 ssh2
+Nov 05 08:11:02 kali sshd[1204]: Failed password for invalid user guest from 192.0.2.20 port 50126 ssh2
+Nov 05 08:12:15 kali sshd[1205]: Accepted password for ajayi from 192.0.2.30 port 50127 ssh2
+Nov 05 08:13:40 kali sshd[1206]: Failed password for invalid user root from 192.0.2.20 port 50128 ssh2
+Nov 05 08:14:10 kali sshd[1207]: Failed password for invalid user admin from 192.0.2.10 port 50129 ssh2
+Nov 05 08:15:22 kali sshd[1208]: Accepted publickey for ajayi from 192.0.2.30 port 50130 ssh2
+

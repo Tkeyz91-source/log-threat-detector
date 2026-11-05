@@ -1,0 +1,24 @@
+===== LOG THREAT DETECTION REPORT =====
+Log file: auth.log
+
+FAILED LOGIN ATTEMPTS
+Total failed attempts: 5
+[FAILED LOGIN] 192.0.2.10: 3 attempts
+[ALERT] Repeated failed login attempts from 192.0.2.10
+[FAILED LOGIN] 192.0.2.20: 2 attempts
+
+INVALID USERNAME ATTEMPTS
+[INVALID USER] admin: 2 attempts
+[INVALID USER] test: 1 attempts
+[INVALID USER] guest: 1 attempts
+[INVALID USER] root: 1 attempts
+
+SUCCESSFUL LOGIN EVENTS
+[SUCCESS] User: ajayi | Source IP: 192.0.2.30
+[SUCCESS] User: ajayi | Source IP: 192.0.2.30
+
+===== SUMMARY =====
+Failed attempts: 5
+Unique source IPs: 2
+Successful logins: 2
+Invalid usernames: 4
